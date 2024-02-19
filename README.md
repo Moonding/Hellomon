@@ -7,7 +7,7 @@ Procmon 은 MS 社 Sysinternals 에 포함된 동적 모니터링 프로그램�
 
 
 
-![img](https://www.moonding.co.kr/content/images/2024/02/msg_box.PNG)
+![img](https://github.com/Moonding/Hellomon/blob/main/imgs/msg_box.PNG)
 
 
 
@@ -15,7 +15,9 @@ Procmon 은 MS 社 Sysinternals 에 포함된 동적 모니터링 프로그램�
 
 - Protector : Themida/Winlicense(2.X)
 
-![img](https://www.moonding.co.kr/content/images/2024/02/die.PNG)
+![img](https://github.com/Moonding/Hellomon/blob/main/imgs/die.PNG)
+
+
 
 
 
@@ -25,7 +27,7 @@ Procmon 은 MS 社 Sysinternals 에 포함된 동적 모니터링 프로그램�
 
 Procmon 실행 시 파일 시스템 미니 필터에 `PROCMON[버전숫자]`라는 이름의 드라이버가 로딩된다. 이렇게 로딩된 드라이버는 Procmon 프로세스가 종료되도 시스템 재부팅 전까지 계속 로딩된 상태를 유지한다. Themida 는 로딩된 미니 필터를 탐지하여 Procmon 의 실행 여부를 알 수 있다.
 
-![img](https://www.moonding.co.kr/content/images/2024/02/fltmc.PNG)
+![img](https://github.com/Moonding/Hellomon/blob/main/imgs/fltmc.PNG)
 
 
 
